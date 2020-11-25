@@ -1,0 +1,7 @@
+-Add the ASSETS and PROJECTSETTINGS folders to a new unity project
+
+-Open up the Assets folder and find the ARBoardGame Scene and double click it to load it (you may need to install vuforia manually for it to work)
+
+-Scene should be set up to build in android properly
+
+-Tap on a surface to spawn the board, then tap on the pieces to select them, tap on board spaces while selected to move pieces around, press the red button to end turn.
